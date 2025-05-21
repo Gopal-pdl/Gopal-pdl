@@ -18,16 +18,16 @@ I'm a passionate full-stack developer with experience in building modern web and
 
 ### 📈 GitHub Stats
 
-![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopal-pdl&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-pdl&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect With Me
 
 - Email: `contact@gopalpoudel.com.np`
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Personal Website/Blog: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [linkedin.com/in/gopal-poudel-8253b7210](https://www.linkedin.com/in/gopal-poudel-8253b7210)
+- Personal Website/Blog: [gopalpoudel.com.np](https://gopalpoudel.com.np)
 
 ---
 
